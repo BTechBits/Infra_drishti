@@ -1,0 +1,7 @@
+{
+  "name": "INFRA-DRISHTI",
+  "description": "A professional, data-driven platform for predicting public infrastructure risk using open-source models and civic transparency.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
